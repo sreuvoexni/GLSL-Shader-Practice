@@ -20,7 +20,8 @@ void main() {
     
     st.x *= 80.0; // scaling
     st.y *= 60.0;
-    st.x -= u_time*randomtime(floor(st.y))*20.; // speed
+    //st.x -= u_time*randomtime(floor(st.y))*20.; // random speed
+    st.x -= u_time*(randomtime(floor(st.y))*2.0-1.0)*20.; // random speed and direction
     
     vec2 ipos = floor(st)/10.0; 
     

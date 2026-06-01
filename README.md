@@ -13,3 +13,10 @@ https://github.com/user-attachments/assets/652ad301-f83f-4bcc-9b01-4557af4e4fca
 
 https://github.com/user-attachments/assets/4900f12a-bdbf-49bb-bbe5-9445b1b6e776
 
+---------------------------------------------------------------------------------------------------------
+
+eye-shaped noise exercise (changed iris from red to white to not potentially scare anyone)
+
+https://github.com/user-attachments/assets/fb5542d6-eb2e-4d3b-8951-4b4cf880bf2e
+
+
